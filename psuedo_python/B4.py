@@ -5,6 +5,6 @@ def B(a):
         return B(a-1) + a * a
 
 
-a = 4
+a = 6
 
 print(B(a))
